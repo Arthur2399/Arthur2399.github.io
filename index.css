@@ -2,3 +2,8 @@ body{
     background-color:rgb(31, 0, 53);
     color: white;
 }
+
+#parrafo{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
