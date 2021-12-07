@@ -1,0 +1,55 @@
+body {
+     background-color: #FFAFAF; 
+     font-family: 'Readex Pro', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+.title{
+    color: white;
+    font-size: 60px;
+}
+
+.Master{
+    width: 100%;
+}
+
+.SeccionUno{
+ width: 1300px;
+ margin: 0 auto;
+}
+
+.SeccionDos{
+    width: 1300px;
+    margin: 0 auto;
+   }
+   
+
+.SeccionUno p{
+    color: #6C4A4A;
+    width: 40%;
+    font-size: 30px;
+    margin-left: 5%;
+    float: left;
+}
+
+.SeccionDos p{
+    color: #6C4A4A;
+    width: 40%;
+    font-size: 30px;
+    margin-left: 5%;
+    float: right;
+}
+
+#palabras{
+    width: 45%;
+    margin-left: 5%;
+}
+
+#pareja{
+    width: 40% ;
+    margin-left: 5%;
+    border-radius: 4%;
+}
